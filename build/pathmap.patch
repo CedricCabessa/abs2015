@@ -1,0 +1,12 @@
+diff --git a/core/pathmap.mk b/core/pathmap.mk
+index 0820885..b55c15e 100644
+--- a/core/pathmap.mk
++++ b/core/pathmap.mk
+@@ -91,6 +91,7 @@ FRAMEWORKS_BASE_SUBDIRS := \
+ 	    wifi \
+ 	    keystore \
+ 	    rs \
++	    abs \
+ 	 )
+ 
+ #
